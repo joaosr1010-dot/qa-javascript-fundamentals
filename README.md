@@ -131,4 +131,9 @@ Pretendo continuar evoluindo meus conhecimentos em:
 
 Projeto desenvolvido durante meus estudos para atuar como **QA Jr**.
 
+---
+# 🔗 Repositório do projeto:
+https://github.com/joaosr1010-dot/qa-javascript-fundamentals
+
+
 🔗 Em breve novos projetos serão adicionados ao meu GitHub.
