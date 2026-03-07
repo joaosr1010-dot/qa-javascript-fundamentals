@@ -4,6 +4,7 @@
 //colocar separadores de uma linha de execução para outra.
 
 
+
 const times = ['Santos', 'Flamengo', 'Fluminense', 'Bahia', 'Grêmio']
 
 times.forEach((time, indice) => {
