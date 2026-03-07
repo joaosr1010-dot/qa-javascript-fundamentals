@@ -3,6 +3,7 @@
 // Brasil está presente na lista e avisando se estiver. (Também avisando se não estiver)
 // Mostrar os números de execução e printando os nomes dos países.
 
+
 const paises = ['Jamaica', 'Brasil', 'Italia', 'Canadá']
 
 paises.forEach( (pais, indice) => {
