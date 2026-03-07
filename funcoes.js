@@ -3,6 +3,7 @@
 // são enviados por parâmetros.
 
 
+
 function soma (numero1, numero2) {
     const resultado = numero1 + numero2
     console.log('numero1: ', numero1)
