@@ -4,6 +4,7 @@ console.log(paises[0]) //Acessando uma posição do array
 console.log(paises.length) //Acessando tamanho do array
 
 
+
 //Operações
 
 paises.push('Canadá') //Adicionando um país no fim da lista
